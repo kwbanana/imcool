@@ -1,0 +1,33 @@
+--[[]] --[SL2 ANTICHEAT BYPASSER]
+--[[BY KUR]]
+
+repeat wait() until game.Players.LocalPlayer
+repeat wait() until game.Players.LocalPlayer.Character
+
+local ScHDc84uijs = game.Workspace.lolidk.Random.What.whatttt.who.knows.idk.xddd.modules.Core.AntiWebsite
+local RSrson = "Sorry, this website:  "..os.website().. " is not available through Sky."
+
+local Blacklists = {
+   ["myflixer.to"] = true, 
+   ["123movies"] = true, 
+   ["abcmovies.org"] = true
+
+}
+
+function checkSite()
+if game.Players.LocalPlayer.check.Value == nil then return Kick() end
+    local websitefirst = game.Players.LocalPlayer.website
+    delay(1,function()
+      local websitesecond = game.Players.LocalPlayer.website2
+
+      if (website1*website2).coreMBUsage >=140 then return end
+
+    end)
+
+end
+
+
+
+if scHDc84uijs then
+Plr:Kick(RSrson)
+ end
